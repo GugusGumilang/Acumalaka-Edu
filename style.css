@@ -1,0 +1,11 @@
+#login {
+  background-color: #a7e0e2da;
+}
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+#form {
+  background: linear-gradient(90deg, #129badd2, #16a387);
+}
